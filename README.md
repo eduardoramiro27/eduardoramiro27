@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **eduardoramiro27/eduardoramiro27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines==HELLO,+My+name+is+Eduardo;23+years+old;I'm+from+Brazil;Data+Scientist+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+My+name+is+Eduardo;23+years+old;I'm+from+Brazil;Data+Scientist+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
