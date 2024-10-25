@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Eduardo;23+years+old;From+Brazil;Data+Scientist+Student;Welcome+to+my+profile!+:%29)](htt ps://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines==HELLO,+My+name+is+Eduardo;23+years+old;I'm+from+Brazil;Data+Scientist+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
